@@ -232,6 +232,7 @@ public class TransactionMQProducerContainer {
 其他参考
 深入理解RocketMQ事务源码--TransactionMQProducer、TransactionListener_向着高亮的地方-CSDN博客  
 https://blog.csdn.net/y532798113/article/details/111285548
+https://my.oschina.net/yangzhongyu/blog/3102933
 
 RocketMQ 实战(五) - 批量消息和事务消息_JavaEdge全是干货的技术号-CSDN博客
 https://blog.csdn.net/qq_33589510/article/details/103003721
