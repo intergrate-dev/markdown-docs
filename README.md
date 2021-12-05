@@ -234,8 +234,10 @@ public class TransactionMQProducerContainer {
 https://blog.csdn.net/y532798113/article/details/111285548
 
 RocketMQ 实战(五) - 批量消息和事务消息_JavaEdge全是干货的技术号-CSDN博客
+https://blog.csdn.net/qq_33589510/article/details/103003721
 
 RocketMQ事务消息实战_中间件兴趣圈-CSDN博客_rocketmq事务消息
+https://blog.csdn.net/prestigeding/article/details/81318980
 
 RocketMQ与MYSQL事务消息整合 - zygfengyuwuzu - 博客园
 
@@ -244,8 +246,10 @@ https://blog.csdn.net/y532798113/article/details/111285548
 最佳实践
 
 RocketMQ 实战(六) - 最佳实践_JavaEdge全是干货的技术号-CSDN博客
+https://javaedge.blog.csdn.net/article/details/103004105
 
 实战RocketMQ解决分布式事务问题 - 铮铮佼佼的技术博客 - OSCHINA - 中文开源技术交流社区
+https://my.oschina.net/yangzhongyu/blog/3102933
  
 
 原理
